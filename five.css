@@ -2,8 +2,8 @@ div{
     background-color: aqua;
     width: 50vw;
     height: 50vh;
-    position: relative;
-    top:30px;
+    position: absolute;
+    top:200px;
     transition: 5s;
 }
 div:hover{
